@@ -2,7 +2,7 @@
 
 ## **Desription**
 
-This is my path learning arduino, here is going to be all my code building and deploying all my arduino projects.
+This is my path learning arduino, here is going to be all my code building and deploying all my arduino projects. I currently have some experience with arduino. Nonetheless, I will start again from the beggining and building my knowledge from scratch.
 
 The main goal is to practice building electronics as well as practicing c++. 
 
